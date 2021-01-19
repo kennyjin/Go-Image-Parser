@@ -1,0 +1,9 @@
+For FOX GO SERVER
+
+Smaller screensize:
+
+DEFAULT_LEN = [35, 265, 932, 2, 49]
+
+Larger screensize:
+
+DEFAULT_LEN = [68, 531, 1865, 3, 98]
